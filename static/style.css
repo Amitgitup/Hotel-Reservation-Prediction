@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(135deg, #f0f4ff, #e6f7ff);
+    font-family: 'Inter', sans-serif;
+  }
+  
+  h2 {
+    font-weight: 700;
+  }
+  
+  .card {
+    border-radius: 1rem;
+  }
+  
+  label {
+    margin-bottom: 0.3rem;
+  }
+  
+  .form-control, .form-select {
+    border-radius: 0.5rem;
+    border: 1px solid #ccc;
+  }
+  
+  .btn-primary {
+    background: #007bff;
+    border: none;
+    border-radius: 0.5rem;
+    transition: background 0.3s ease;
+  }
+  
+  .btn-primary:hover {
+    background: #0056b3;
+  }
+  
