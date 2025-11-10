@@ -168,16 +168,3 @@ docker run -p 8080:8080 hotel-reservation-ml
 - **Jenkins Error**: Ensure Docker/GCP credentials configured properly in Jenkins
 
 ---
-
-## 12. Author & Credits
-- Amit (author)
-- See repo contributors/commits for more
-
----
-
-## 13. References
-- See inline links in notebook for data source/method inspirations
-
----
-
-**If you use, cite, or adapt this repository, please leave a star and contribute back fixes or improvements!**
